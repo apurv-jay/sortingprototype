@@ -1,0 +1,52 @@
+.UpperPart
+{
+    background-color: #03045e;
+    position: relative;
+    top: -30px;
+}
+.Head
+{   
+    color :beige;
+    text-align: center;
+  
+}
+.Input
+{
+    position: relative;
+    top : -30px;
+}
+
+.eta{
+    position: relative;
+    top:20px;
+    color : beige;
+}
+.b1
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.b2
+{
+    margin-right:10px;
+}
+.b3
+{
+    margin-right: 10px;
+}
+.b4
+{
+    margin-right: 100px;
+}
+.lower
+{
+    position: relative;
+    background-color: antiquewhite;
+    top:-50px;
+}
+.array-bar
+{
+    width: 10px;
+    display: inline-block;
+    margin: 0 1px;
+}
